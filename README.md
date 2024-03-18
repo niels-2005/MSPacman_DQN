@@ -46,8 +46,9 @@ To visualize and track the training progress using TensorBoard, run the followin
 
 ```sh
 $ tensorboard --logdir=./logs
-$ TensorBoard 2.16.2 at http://localhost:6006/ (Press CTRL+C to quit)
 ```
+
+`TensorBoard 2.16.2 at http://localhost:6006/ (Press CTRL+C to quit)`
 
 
 ### Watching the Agent Play
