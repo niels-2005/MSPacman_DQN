@@ -53,8 +53,9 @@ $ tensorboard --logdir=./logs
 
 ### Watching the Agent Play
 
-Once you have a trained model, you can watch it play live by running:
 Make sure a trained model file is available for loading.
+
+Once you have a trained model, you can watch it play live by running:
 
 ```sh
 $ python enjoy.py
@@ -63,8 +64,9 @@ $ python enjoy.py
 
 ### Generating a GIF of the Agent
 
-To create a GIF showcasing the agent's gameplay, execute:
 This requires a trained model to be available for loading as well.
+
+To create a GIF showcasing the agent's gameplay, execute:
 
 ```sh
 $ python make_gif.py
