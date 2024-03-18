@@ -15,8 +15,8 @@ To get started with this project, follow the steps below:
 Clone this repository to your local machine using:
 
 ```sh
-$ git clone <REPOSITORY_URL>
-$ cd <REPOSITORY_DIRECTORY>
+$ git clone https://github.com/niels-2005/MSPacman_DQN.git
+$ cd MSPacman_DQN
 ```
 
 
