@@ -40,6 +40,16 @@ $ python trainer.py
 The training script will use the architecture and hyperparameters specified in `dqn.py` and attempt to optimize the agent's performance in the MSPacman game.
 
 
+### Tracking Training Progress with TensorBoard
+
+To visualize and track the training progress using TensorBoard, run the following command in your terminal:
+
+```sh
+$ tensorboard --logdir=./logs
+$ TensorBoard 2.16.2 at http://localhost:6006/ (Press CTRL+C to quit)
+```
+
+
 ### Watching the Agent Play
 
 Once you have a trained model, you can watch it play live by running:
