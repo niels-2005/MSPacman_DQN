@@ -85,4 +85,4 @@ After 10 million training steps, the agent achieved a mean episode reward of 240
 
 This project demonstrates the power of Reinforcement Learning in creating agents that can learn complex behaviors in video game environments. By experimenting with different architectures and hyperparameters, one can further enhance the agent's performance and apply similar techniques to other gaming and non-gaming tasks.
 
-Thank you for exploring this project. Feel free to clone, modify, and use the code for your own experiments and learning journey in the fascinating world of artificial intelligence and reinforcement learning.
+Thank you for exploring this project. Feel free to clone, modify, and use the code for your own experiments.
